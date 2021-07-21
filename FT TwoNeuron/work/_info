@@ -1,0 +1,632 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\il2203 verilog ver\IL2203-verilog-ver
+vadder_tree
+Z1 !s100 gg5j>[C>XKQ4Nd^K>NzO;2
+Z2 I6FbSNQcd?KKg@EBlZ3T9E1
+Z3 Va0_9bS6a`;_L:Ak_CQdnO2
+Z4 dD:\My project\FT TwoNeuron
+Z5 w1625245804
+Z6 8D:/My project/FT TwoNeuron/rtl/adder_tree.v
+Z7 FD:/My project/FT TwoNeuron/rtl/adder_tree.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/adder_tree.v|
+Z10 o-work work -O0
+Z11 !s108 1626903188.563000
+Z12 !s107 D:/My project/FT TwoNeuron/rtl/adder_tree.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcolumn_weight
+Z13 !s100 DVO:Vz80zQZWb4zNWGk6J3
+Z14 I@RYk7c3OI:P=JaP0nnmTI1
+Z15 V4@1?giz@VYJmY8Pe?3khQ2
+R4
+Z16 w1626714421
+Z17 8D:/My project/FT TwoNeuron/rtl/column_weight.v
+Z18 FD:/My project/FT TwoNeuron/rtl/column_weight.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/column_weight.v|
+R10
+Z20 !s108 1626903188.622000
+Z21 !s107 D:/My project/FT TwoNeuron/rtl/column_weight.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcrc
+Z22 !s100 BYY]^Ri0OiRR1F81B]>440
+Z23 IE5N[?1g<`A4MUmJ1ZTV:f2
+Z24 VWT=D]WW8PH@MGIA`adNgC0
+R4
+Z25 w1625083441
+Z26 8D:/My project/FT TwoNeuron/rtl/crc.v
+Z27 FD:/My project/FT TwoNeuron/rtl/crc.v
+L0 4
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/crc.v|
+R10
+Z29 !s108 1626903188.682000
+Z30 !s107 D:/My project/FT TwoNeuron/rtl/crc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcrc_checker
+Z31 !s100 en`]o_WA^Hej26YG9zl<[0
+Z32 ITkJ1?><MTJ0TW8OYgGdnh1
+Z33 V>7>f9VJe>fPdY?:iEBQBe2
+R4
+Z34 w1625995646
+Z35 8D:\My project\FT TwoNeuron\rtl\crc_checker.v
+Z36 FD:\My project\FT TwoNeuron\rtl\crc_checker.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|D:\My project\FT TwoNeuron\rtl\crc_checker.v|
+R10
+Z38 !s108 1626903189.689000
+Z39 !s107 D:\My project\FT TwoNeuron\rtl\crc_checker.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vctrl
+Z40 !s100 FX24J@1URGFR5AYS^B?K_3
+Z41 IJ>]6ETF`z[CIAbdWH2zUM2
+Z42 ViN@cRe;W^BkbR3B0@UjP_3
+R4
+Z43 w1626709537
+Z44 8D:/My project/FT TwoNeuron/rtl/ctrl.v
+Z45 FD:/My project/FT TwoNeuron/rtl/ctrl.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/ctrl.v|
+R10
+Z47 !s108 1626903188.746000
+Z48 !s107 D:/My project/FT TwoNeuron/rtl/ctrl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z49 !s100 KY7F@Nf>EUiLE^lfz4A5B0
+Z50 IQ=hdIXz^mK6UN1YnSj7dh2
+Z51 VaoRA`lXiGZCn46:PCB2h31
+R4
+Z52 w1625323863
+Z53 8D:/My project/FT TwoNeuron/rtl/multiplier.v
+Z54 FD:/My project/FT TwoNeuron/rtl/multiplier.v
+L0 1
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/multiplier.v|
+R10
+Z56 !s108 1626903188.810000
+Z57 !s107 D:/My project/FT TwoNeuron/rtl/multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrmac
+Z58 IiE=1L_J5Pjfb6Q@3gfbdH0
+Z59 V3BLQIM>GfCQKC:O]CTW8f3
+R4
+Z60 w1626902513
+Z61 8D:/My project/FT TwoNeuron/rtl/rmac.v
+Z62 FD:/My project/FT TwoNeuron/rtl/rmac.v
+L0 1
+R8
+r1
+31
+R10
+Z63 !s100 KHmkYHHN6Tc0Ph]RQ@2771
+Z64 !s108 1626903188.882000
+Z65 !s107 D:/My project/FT TwoNeuron/rtl/rmac.v|
+Z66 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/rmac.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrow_weight
+Z67 !s100 GVW^<SSSJV_<8;WMYX9FI2
+Z68 I?^j]LoJ=XSZdIPeFISA`U3
+Z69 Vi4e]2VAQd?5<F;??d_77F3
+R4
+Z70 w1626714412
+Z71 8D:/My project/FT TwoNeuron/rtl/row_weight.v
+Z72 FD:/My project/FT TwoNeuron/rtl/row_weight.v
+L0 2
+R8
+r1
+31
+Z73 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/row_weight.v|
+R10
+Z74 !s108 1626903188.937000
+Z75 !s107 D:/My project/FT TwoNeuron/rtl/row_weight.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vs1neuron
+Z76 !s100 1IO;KSBZR4jS3`AdL^;VP2
+Z77 IEzjTWYdK92fI^K@`kE^GA0
+Z78 V5[B5^<Szb2<g<4Q`1j<RR0
+R4
+Z79 w1626457376
+Z80 8D:\My project\FT TwoNeuron\rtl\s1nueron.v
+Z81 FD:\My project\FT TwoNeuron\rtl\s1nueron.v
+L0 1
+R8
+r1
+31
+Z82 !s90 -reportprogress|300|-work|work|D:\My project\FT TwoNeuron\rtl\s1nueron.v|
+R10
+Z83 !s108 1626903188.995000
+Z84 !s107 D:\My project\FT TwoNeuron\rtl\s1nueron.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vs2neuron
+Z85 !s100 U83:Ok0N:9kQMWgB<KLGc1
+Z86 IAOkU]E8HaflM2KH5UKSDc0
+Z87 V`MU[RQ<V]jI[kL8AMYc;e3
+R4
+Z88 w1626902714
+Z89 8D:/My project/FT TwoNeuron/rtl/s2neuron.v
+Z90 FD:/My project/FT TwoNeuron/rtl/s2neuron.v
+L0 1
+R8
+r1
+31
+Z91 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/s2neuron.v|
+R10
+Z92 !s108 1626903189.055000
+Z93 !s107 D:/My project/FT TwoNeuron/rtl/s2neuron.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_adder_tree
+Z94 !s100 @]GjkD9_aRO^>:ZAVAG]e2
+Z95 IkUB=i`[VefEFcVbTG]Bm]0
+Z96 VDUN_FT4F952R0iDkP^X>G0
+R4
+Z97 w1625243915
+Z98 8D:/My project/FT TwoNeuron/tb/tb_adder_tree.v
+Z99 FD:/My project/FT TwoNeuron/tb/tb_adder_tree.v
+L0 2
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_adder_tree.v|
+R10
+Z101 !s108 1626903189.170000
+Z102 !s107 D:/My project/FT TwoNeuron/tb/tb_adder_tree.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_crc
+Z103 !s100 I8G<UZZ2:[^7;ChJM:j303
+Z104 IJjJI7?0z9zm2YEWnDd;`B3
+Z105 VY1c@@3V:A>[CJ3KT>`mX`2
+R4
+Z106 w1625083296
+Z107 8D:\My project\FT TwoNeuron\tb\tb_crc.v
+Z108 FD:\My project\FT TwoNeuron\tb\tb_crc.v
+L0 2
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|D:\My project\FT TwoNeuron\tb\tb_crc.v|
+R10
+Z110 !s108 1626903189.224000
+Z111 !s107 D:\My project\FT TwoNeuron\tb\tb_crc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_crc_checker
+Z112 !s100 z7g>g<FTW0YA@G1I71ccc0
+Z113 Ijm5QSz<_5lN;gUEe=jS:W0
+Z114 VAGlJ0O2NN^5Q3F1RSP9Sh3
+R4
+Z115 w1625991011
+Z116 8D:/My project/FT TwoNeuron/tb/tb_crc_checker.v
+Z117 FD:/My project/FT TwoNeuron/tb/tb_crc_checker.v
+L0 2
+R8
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_crc_checker.v|
+R10
+Z119 !s108 1626903189.742000
+Z120 !s107 D:/My project/FT TwoNeuron/tb/tb_crc_checker.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_ctrl
+Z121 !s100 O?o;6C<6G=Qgc<OWa2<AZ2
+Z122 I]9KFFLogNYG7RTTVB9f0o2
+Z123 VSI??`jj51?G:5OFJ9a;_G0
+R4
+Z124 w1624215843
+Z125 8D:/My project/FT TwoNeuron/tb/tb_ctrl.v
+Z126 FD:/My project/FT TwoNeuron/tb/tb_ctrl.v
+L0 2
+R8
+r1
+31
+Z127 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_ctrl.v|
+R10
+Z128 !s108 1626903189.280000
+Z129 !s107 D:/My project/FT TwoNeuron/tb/tb_ctrl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_multiplier
+Z130 !s100 PDldj3gT2GNa9>PMd`<f31
+Z131 I^9aW3Ud2@1ZDY4D<g7dO]1
+Z132 VzjL;ioaV=?_4H6n?5lzoa2
+R4
+Z133 w1625151135
+Z134 8D:/My project/FT TwoNeuron/tb/tb_multiplier.v
+Z135 FD:/My project/FT TwoNeuron/tb/tb_multiplier.v
+L0 2
+R8
+r1
+31
+Z136 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_multiplier.v|
+R10
+Z137 !s108 1626903189.341000
+Z138 !s107 D:/My project/FT TwoNeuron/tb/tb_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_rmac
+Z139 !s100 zHho`ZSDX[MfFg4==`Tjl3
+Z140 I8jTM]?>^DMSLl2bbkconH1
+Z141 V[WYUjC52DIfoZYL7<UIIO3
+R4
+Z142 w1625243069
+Z143 8D:/My project/FT TwoNeuron/tb/tb_rmac.v
+Z144 FD:/My project/FT TwoNeuron/tb/tb_rmac.v
+L0 2
+R8
+r1
+31
+Z145 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_rmac.v|
+R10
+Z146 !s108 1626903189.396000
+Z147 !s107 D:/My project/FT TwoNeuron/tb/tb_rmac.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_row_weight
+Z148 !s100 ]DKfAPPalAEHjQTcl2VZ[0
+Z149 IYEkLEYlUG=K[Vd^aAPG`e1
+Z150 VO8k0]o1n@>@0Kak[X<GSE0
+R4
+Z151 w1626709829
+Z152 8D:/My project/FT TwoNeuron/tb/tb_row_weight.v
+Z153 FD:/My project/FT TwoNeuron/tb/tb_row_weight.v
+L0 2
+R8
+r1
+31
+Z154 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_row_weight.v|
+R10
+Z155 !s108 1626903189.446000
+Z156 !s107 D:/My project/FT TwoNeuron/tb/tb_row_weight.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_s1neuron
+Z157 !s100 UW033fjQ8mcF31`SI31<a2
+Z158 IFXMC7Ke7D<iIfZ7]<EE1A2
+Z159 VKnPzlHW[=iLNb9hj^?J[n1
+R4
+Z160 w1626901626
+Z161 8D:/My project/FT TwoNeuron/tb/tb_s1neuron.v
+Z162 FD:/My project/FT TwoNeuron/tb/tb_s1neuron.v
+L0 2
+R8
+r1
+31
+Z163 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_s1neuron.v|
+R10
+Z164 !s108 1626903189.517000
+Z165 !s107 D:/My project/FT TwoNeuron/tb/tb_s1neuron.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_s2neuron
+Z166 !s100 jfMHO>3A=V>KXn>>eaL;J3
+Z167 Im@fK[mjg5f@JHb1C`h1O51
+Z168 VURFi:CPT_ThEIBh^5jLM_2
+R4
+Z169 w1624213864
+Z170 8D:/My project/FT TwoNeuron/tb/tb_s2neuron.v
+Z171 FD:/My project/FT TwoNeuron/tb/tb_s2neuron.v
+L0 2
+R8
+r1
+31
+Z172 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_s2neuron.v|
+R10
+Z173 !s108 1626903189.572000
+Z174 !s107 D:/My project/FT TwoNeuron/tb/tb_s2neuron.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_tmr_adder_tree
+Z175 !s100 z9gzFQFYBZKUFLAUWXK=R3
+Z176 IT?`>n_MHlhamS9UO<d>^f2
+Z177 V:^z=90e:zSCGmkBQBij<Q0
+R4
+Z178 w1626900508
+Z179 8D:/My project/FT TwoNeuron/tb/tb_tmr_adder_tree.v
+Z180 FD:/My project/FT TwoNeuron/tb/tb_tmr_adder_tree.v
+L0 2
+R8
+r1
+31
+Z181 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_tmr_adder_tree.v|
+R10
+Z182 !s108 1626903190.071000
+Z183 !s107 D:/My project/FT TwoNeuron/tb/tb_tmr_adder_tree.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_tmr_crc_checker
+Z184 !s100 d>?=>M=1?`D:Ugmd8nSN92
+Z185 IR@@1<HnRZ]CdZadQ?Ag=E2
+Z186 VW]RKY_j=L@J7?EPZVjQhB1
+R4
+Z187 w1626896742
+Z188 8D:/My project/FT TwoNeuron/tb/tb_tmr_crc_checker.v
+Z189 FD:/My project/FT TwoNeuron/tb/tb_tmr_crc_checker.v
+L0 2
+R8
+r1
+31
+Z190 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_tmr_crc_checker.v|
+R10
+Z191 !s108 1626903189.855000
+Z192 !s107 D:/My project/FT TwoNeuron/tb/tb_tmr_crc_checker.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_tmr_multiplier
+Z193 !s100 ?=gA9LRoA^>>U3kQLOEma1
+Z194 IoZ4@hPbL7DWi3dJeaiW000
+Z195 V>R0I?Sa4YcI?3MAV4o];J2
+R4
+Z196 w1626899859
+Z197 8D:/My project/FT TwoNeuron/tb/tb_tmr_multiplier.v
+Z198 FD:/My project/FT TwoNeuron/tb/tb_tmr_multiplier.v
+L0 2
+R8
+r1
+31
+Z199 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_tmr_multiplier.v|
+R10
+Z200 !s108 1626903189.967000
+Z201 !s107 D:/My project/FT TwoNeuron/tb/tb_tmr_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_tmr_s1neuron
+Z202 !s100 1eK:g5f[]`[AcJ`;R1P[o2
+Z203 I;F]:Go=6Z7Y:mNj9QhLCG2
+Z204 VMUDLnjg6ig^XOzW_9PU=D0
+R4
+Z205 w1626901463
+Z206 8D:/My project/FT TwoNeuron/tb/tb_tmr_s1neuron.v
+Z207 FD:/My project/FT TwoNeuron/tb/tb_tmr_s1neuron.v
+L0 2
+R8
+r1
+31
+Z208 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_tmr_s1neuron.v|
+R10
+Z209 !s108 1626903190.181000
+Z210 !s107 D:/My project/FT TwoNeuron/tb/tb_tmr_s1neuron.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_tmr_top
+Z211 !s100 [jkFl:J@ga3UYaDRi5HI:2
+Z212 I>n`g7G3=^JkGS9JmbIQP;3
+Z213 V0=]6M5OFlFJdfZ_WEg`8E2
+R4
+Z214 w1626903112
+Z215 8D:/My project/FT TwoNeuron/tb/tb_tmr_top.v
+Z216 FD:/My project/FT TwoNeuron/tb/tb_tmr_top.v
+L0 2
+R8
+r1
+31
+Z217 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_tmr_top.v|
+R10
+!i10b 1
+!s85 0
+Z218 !s108 1626903190.340000
+Z219 !s107 D:/My project/FT TwoNeuron/tb/tb_tmr_top.v|
+!s101 -O0
+vtb_top
+Z220 !s100 Wf8c=HUfUM0NE]7LoEfQb3
+Z221 I8i4dL1ZjV6SVgmRoh0:NF0
+Z222 V[LcaLh[SJXomY3Ki^RaI?1
+R4
+Z223 w1625324313
+Z224 8D:/My project/FT TwoNeuron/tb/tb_top.v
+Z225 FD:/My project/FT TwoNeuron/tb/tb_top.v
+L0 2
+R8
+r1
+31
+Z226 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/tb/tb_top.v|
+R10
+Z227 !s108 1626903189.632000
+Z228 !s107 D:/My project/FT TwoNeuron/tb/tb_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtmr_adder_tree
+Z229 !s100 UPVEA349BTZ;ZjDLziNUS2
+Z230 IQAR4IEC<@^PHX<nWIWnif3
+Z231 Vn`e[9hm`]356^GBDSXl3R3
+R4
+Z232 w1626900590
+Z233 8D:/My project/FT TwoNeuron/rtl/tmr_adder_tree.v
+Z234 FD:/My project/FT TwoNeuron/rtl/tmr_adder_tree.v
+L0 1
+R8
+r1
+31
+Z235 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/tmr_adder_tree.v|
+R10
+Z236 !s108 1626903190.020000
+Z237 !s107 D:/My project/FT TwoNeuron/rtl/tmr_adder_tree.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtmr_crc_checker
+Z238 !s100 EKKB<nTK^IC3X><?EWSGV0
+Z239 Ifhn0F2[51b_:2S?cK@I4`0
+Z240 V[9B<z64VnUI3bL6dQGPjL2
+R4
+Z241 w1626897450
+Z242 8D:/My project/FT TwoNeuron/rtl/tmr_crc_checker.v
+Z243 FD:/My project/FT TwoNeuron/rtl/tmr_crc_checker.v
+L0 1
+R8
+r1
+31
+Z244 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/tmr_crc_checker.v|
+R10
+Z245 !s108 1626903189.802000
+Z246 !s107 D:/My project/FT TwoNeuron/rtl/tmr_crc_checker.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtmr_multiplier
+Z247 !s100 P6@T@:o7UJM6bg<afSJIo2
+Z248 I5@k0FV6E4kbM9gZMKaKBC0
+Z249 V?F23>_>;Kmlg:CjPzM2?41
+R4
+Z250 w1626899761
+Z251 8D:/My project/FT TwoNeuron/rtl/tmr_multiplier.v
+Z252 FD:/My project/FT TwoNeuron/rtl/tmr_multiplier.v
+L0 1
+R8
+r1
+31
+Z253 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/tmr_multiplier.v|
+R10
+Z254 !s108 1626903189.909000
+Z255 !s107 D:/My project/FT TwoNeuron/rtl/tmr_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtmr_rmac
+Z256 IBMPKXI[X04UWa^m88fJ8M3
+Z257 VC]18;L59ndN2TDP@2=E1c3
+R4
+Z258 w1626903183
+Z259 8D:/My project/FT TwoNeuron/rtl/tmr_rmac.v
+Z260 FD:/My project/FT TwoNeuron/rtl/tmr_rmac.v
+L0 1
+R8
+r1
+31
+R10
+Z261 !s100 o_0dn;nD82m_L[2HBjMY70
+Z262 !s108 1626903190.288000
+Z263 !s107 D:/My project/FT TwoNeuron/rtl/tmr_rmac.v|
+Z264 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/tmr_rmac.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtmr_s1neuron
+Z265 !s100 f=:V]S5hZJ5k`hfXAS>_G3
+Z266 I]TEI6UN2SF^VXg^Ke6W?G2
+Z267 V92S]iOI?_Xj82o6GBg<7R3
+R4
+Z268 w1626901170
+Z269 8D:/My project/FT TwoNeuron/rtl/tmr_s1neuron.v
+Z270 FD:/My project/FT TwoNeuron/rtl/tmr_s1neuron.v
+L0 1
+R8
+r1
+31
+Z271 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/tmr_s1neuron.v|
+R10
+Z272 !s108 1626903190.131000
+Z273 !s107 D:/My project/FT TwoNeuron/rtl/tmr_s1neuron.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtmr_s2neuron
+Z274 !s100 W;NGkjcW6fjNEe]Wl_HZ02
+Z275 IbGX62>m5[gfh;BMeAoUBR2
+Z276 V2lf9>Ja4XjP9D<KYMbTkI3
+R4
+Z277 w1626902613
+Z278 8D:/My project/FT TwoNeuron/rtl/tmr_s2neuron.v
+Z279 FD:/My project/FT TwoNeuron/rtl/tmr_s2neuron.v
+L0 1
+R8
+r1
+31
+Z280 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/tmr_s2neuron.v|
+R10
+Z281 !s108 1626903190.232000
+Z282 !s107 D:/My project/FT TwoNeuron/rtl/tmr_s2neuron.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtmr_top
+!i10b 1
+Z283 !s100 izSS21kjdXK?gAjiDKjgS2
+Z284 IOPdGnHnNe]346M4zg_SVW1
+Z285 V2OPlkNG^O?f^iPk^TOf1O2
+R4
+Z286 w1626902939
+Z287 8D:/My project/FT TwoNeuron/rtl/tmr_top.v
+Z288 FD:/My project/FT TwoNeuron/rtl/tmr_top.v
+L0 15
+R8
+r1
+!s85 0
+31
+!s108 1626903190.390000
+!s107 D:/My project/FT TwoNeuron/rtl/tmr_top.v|
+Z289 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/tmr_top.v|
+!s101 -O0
+R10
+vtop
+Z290 !s100 DbY0;DVQdziZBWkiC=<Z83
+Z291 IH3hC[3ROB0LGKE=]Y7Gmd1
+Z292 V1Y`WAzE1Qm;];_bmkDTU^0
+R4
+Z293 w1626708952
+Z294 8D:/My project/FT TwoNeuron/rtl/top.v
+Z295 FD:/My project/FT TwoNeuron/rtl/top.v
+L0 15
+R8
+r1
+31
+Z296 !s90 -reportprogress|300|-work|work|D:/My project/FT TwoNeuron/rtl/top.v|
+R10
+Z297 !s108 1626903189.111000
+Z298 !s107 D:/My project/FT TwoNeuron/rtl/top.v|
+!i10b 1
+!s85 0
+!s101 -O0
